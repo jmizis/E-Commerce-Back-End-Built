@@ -16,6 +16,11 @@ URL: https://drive.google.com/file/d/1qoV4MqI6XOQEugqtgn6pB4Sd8cjwm2sn/view
 ## Github 
 
 On Github I was able to create a new repository where I was able to push all my work to. Before even starting the challenge I had to clone the new repository to my computer first. I cloned it using my gitbash, from there on any code I worked on visual studio code I was able to save it and push it back to my repository. Once all my work was done I did a final push.
+
+
+## Insomnia
+
+For this assignment after creating our code we had to run it in insonmia so we can view our seeded information but also to create new ones, update it, and delete it. 
 ![Screenshot (2)](https://user-images.githubusercontent.com/107073756/201411708-442e50d7-7a0a-4bf6-98b3-f54ae2c5b50a.png)
 
 
